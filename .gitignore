@@ -49,3 +49,5 @@ Singularityfile
 !reports/**/*.csv
 !reports/**/*.png
 !docs/img/**/*.png
+/development-env
+settings.json
